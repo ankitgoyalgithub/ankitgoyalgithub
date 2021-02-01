@@ -1,5 +1,4 @@
 ### Hi there 👋
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitgoyalgithub&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ankitgoyalgithub&show_icons=true&count_private=true&hide=issues,contribs&theme=prussian" alt="GitHub stats" /></p>
 
