@@ -4,4 +4,4 @@
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitgoyalgithub&theme=prussian" alt="Ankit" /></p>
 
-[![ankit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ankitgoyalgithub)](https://github.com/anuraghazra/github-readme-stats)
+[![ankit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ankitgoyalgithub)](https://github.com/ankitgoyalgithub/github-readme-stats)
